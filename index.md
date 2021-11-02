@@ -1,5 +1,7 @@
 # Welcome
-Welcome to the Azure Tech Community. Check back often for new resources, content, samples and more. 
+Welcome to the Azure Tech Community user group resource page. Check back often for new resources, content, samples and more. 
+
+- Lightning Talks - [https://azuretechcommunity.github.io/Lightning-Talks/](https://azuretechcommunity.github.io/Lightning-Talks/)
 
 
 ## Websites
@@ -12,7 +14,7 @@ Welcome to the Azure Tech Community. Check back often for new resources, content
 
 - Azure blog - [http://azure.microsoft.com/blog](http://azure.microsoft.com/blog)
 - Visual Studio blog - [https://devblogs.microsoft.com/visualstudio/](https://devblogs.microsoft.com/visualstudio/)
-- Microsoft Tech Community - [https://aka.ms/azdev/AzureCommunity](https://aka.ms/azdev/AzureCommunity)
+- Azure on Microsoft Tech Community - [https://aka.ms/azdev/AzureCommunity](https://aka.ms/azdev/AzureCommunity)
 
 
 ## Videos
